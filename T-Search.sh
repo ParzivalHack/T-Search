@@ -23,7 +23,7 @@ then
 w3m www.google.com
 elif [ $optnz = "2" ];
 then
-w3n https://duckduckgo.com/
+w3m https://duckduckgo.com/
 elif [ $optnz = "3" ];
 then
 am start -a android.intent.action.VIEW -d https://portosaurus.github.io/TommasoBona/ > /dev/null 2>&1
