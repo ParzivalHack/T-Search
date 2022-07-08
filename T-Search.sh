@@ -6,6 +6,7 @@ toilet T-Search
 echo -e "
 _____________________________________
 |________________________________|🔎|
+"
 echo -e "$blue                        ➡$cyan [\e[46m1\e[46m] Use Google (Suggested)"
 echo -e "$blue                        ➡$cyan [\e[46m2\e[46m] Use DuckDuckGo (Safest Option)"
 echo -e "$blue                        ➡$cyan [\e[46m3\e[46m] About me"
