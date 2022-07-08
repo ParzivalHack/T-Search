@@ -22,25 +22,22 @@ then
 w3m www.google.com
 elif [ $optnz = "2" ];
 then
-w3n duckduckgo
+w3n https://duckduckgo.com/
 elif [ $optnz = "3" ];
 then
-am start -a android.intent.action.VIEW -d https://msha.ke/tommasobona/ > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://portosaurus.github.io/TommasoBona/ > /dev/null 2>&1
 banner
-menu
 elif [ $optnz = "4" ];
 then
 upd
 elif [ $optnz = "5" ];
 then
-am start -a android.intent.action.VIEW -d https://www.whispervpn.company.site/ > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://whispervpn.company.site > /dev/null 2>&1
 banner
-menu
 elif [ $optnz = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://github.com/ParzivalHack/doomshell/issues > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://github.com/ParzivalHack/T-Search/issues > /dev/null 2>&1
 banner
-menu
 elif [ $optnz = "7" ];
 then
 exit 1
