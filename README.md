@@ -34,7 +34,7 @@ The first Search Engine for terminal.
 
 ### FEATURES :
 
-* [+] Start Python server!
-* [+] Chat anonymously!
+* [+] Search on Google!
+* [+] Search anonymously on DuckDuckGo!
 * [+] Beginner friendly!
 * [+] Works on Termux!
